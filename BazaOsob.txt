@@ -1,0 +1,4 @@
+K C mężczyzna 12 wolny
+K2 C mężczyzna 58 wolny
+K3 C kobieta 90 wolna
+K4 C mężczyzna 67 zamężny
