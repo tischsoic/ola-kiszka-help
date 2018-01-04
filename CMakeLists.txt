@@ -27,3 +27,14 @@ add_executable(kol2_zad3
 
 add_executable(kol2_zad4
         kol2_zad4.cpp)
+
+
+
+add_executable(kol3_zad1
+        kol3_zad1.cpp)
+
+add_executable(kol3_zad2
+        kol3_zad2.cpp)
+
+add_executable(kol3_zad3
+        kol3_zad3.cpp)
