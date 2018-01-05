@@ -87,3 +87,11 @@ add_executable(kol7_zad2
 
 add_executable(kol7_zad3
         kol7_zad3.cpp)
+
+
+add_executable(zad1
+        zad1.cpp)
+add_executable(zad2
+        zad2.cpp)
+add_executable(zad3
+        zad3.cpp)
