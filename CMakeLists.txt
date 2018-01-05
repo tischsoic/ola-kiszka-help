@@ -38,3 +38,52 @@ add_executable(kol3_zad2
 
 add_executable(kol3_zad3
         kol3_zad3.cpp)
+
+add_executable(kol3_zad4
+        kol3_zad4.cpp)
+
+
+
+
+add_executable(kol4_zad1
+        kol4_zad1.cpp)
+
+add_executable(kol4_zad2
+        kol4_zad2.cpp)
+
+add_executable(kol4_zad3
+        kol4_zad3.cpp)
+
+
+
+add_executable(kol5_zad1
+        kol5_zad1.cpp)
+
+add_executable(kol5_zad2
+        kol5_zad2.cpp)
+
+add_executable(kol5_zad3
+        kol5_zad3.cpp)
+
+
+
+
+add_executable(kol6_zad1
+        kol6_zad1.cpp)
+
+add_executable(kol6_zad2
+        kol6_zad2.cpp)
+
+add_executable(kol6_zad3
+        kol6_zad3.cpp)
+
+
+
+add_executable(kol7_zad1
+        kol7_zad1.cpp)
+
+add_executable(kol7_zad2
+        kol7_zad2.cpp)
+
+add_executable(kol7_zad3
+        kol7_zad3.cpp)
